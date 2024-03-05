@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @j4y11
 - 👀 I’m interested in Full Stack development!
 - 🌱 I’m currently learning Frontend development!
-- 📫 How to reach me You can reach me on Discord at j4y11
+- 📫 How to reach me: You can reach me on Discord at j4y11
 - 😄 Pronouns: My pronouns are he/him!
 - ⚡ Fun fact: I'm currently working as the sole developer of the freedom project my personal project focused on school proxies and  bypasses!
 
